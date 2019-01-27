@@ -1,0 +1,1 @@
+$(document).ready(function(){var e=document.getElementById("menu-toggle"),t=document.getElementById("primary-nav");e&&t&&e.addEventListener("click",function(){t.classList.toggle("js-menu-is-open")}),$("a").smoothScroll({offset:-20}),$("a[href$='.jpg'], a[href$='.png'], a[href$='.gif']").attr("data-lity","")});
