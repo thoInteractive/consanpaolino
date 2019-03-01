@@ -1,1 +1,5 @@
-Sitemap: https://consanpaolino.org/sitemap.xml User-agent: * Disallow: /thanks-newsletter Disallow: /page*/
+Sitemap: https://consanpaolino.org/sitemap.xml
+
+User-agent: *
+Disallow: /thanks-newsletter
+Disallow: /page*/
